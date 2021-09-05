@@ -9,7 +9,7 @@ public class Main {
 		System.out.println("Hello World!!!\n");
 		System.out.print("이름입력: ");
 		String name =s.next();
-		System.out.println("["+name+"Hello World!!!\n");
+		System.out.println("["+name+"]님 환영합니다~");
 		
 	}
 
